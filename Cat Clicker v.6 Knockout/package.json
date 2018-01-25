@@ -1,0 +1,10 @@
+{
+  "name": "cat-clicker-on-knockoutjs",
+  "version": "6",
+  "main": "index.js",
+  "author": "Airomad",
+  "license": "MIT",
+  "dependencies": {
+    "knockout": "^3.5.0-beta"
+  }
+}
